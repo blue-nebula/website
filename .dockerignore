@@ -1,0 +1,6 @@
+public/
+resources/
+*.swp
+*~
+.git*
+README.md

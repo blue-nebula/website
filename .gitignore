@@ -1,0 +1,5 @@
+public/
+resources/
+*.swp
+*~
+docker-compose.yml

@@ -1,0 +1,7 @@
+version: "2"
+
+services:
+  website:
+    build: .
+    ports:
+      - 127.0.0.1:4080:80

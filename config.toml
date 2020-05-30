@@ -88,7 +88,7 @@ enableRobotsTXT = true
 
     ## Defines whether the background should move with the page or stay fixed
     ## in place. Set to `true` to keep it fixed in place.
-    #fixed = true
+    fixed = true
 
     ## Set to true to tile the image vertically and horizontally across the page
     ## Has no effect if 'fit' is set to "contain" or "cover"

@@ -9,7 +9,7 @@ tags:
 type: posts
 ---
 
-Today we proudly announce the game Blue Nebula. Blue Nebula is a fork of [*Red Eclipse*](http://redeclipse.net) and can be seen as a community continuation of its development.
+Today we proudly announce the game Blue Nebula. Blue Nebula is a fork of [*Red Eclipse 1*](http://redeclipse.net) and can be seen as a community continuation of its development.
 
 
 <!--more-->

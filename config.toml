@@ -179,7 +179,7 @@ enableRobotsTXT = true
         "search",
         ## Enable a recent articles list. Can be configured to use a custom section
         ## See also: https://bluestnight.com/docs/midnight/users/sidebar/recent-posts/
-        #"recent",
+        "recent",
         ## Enable a list of page categories
         ## Will cause errors if no categories are defined
         "categories",

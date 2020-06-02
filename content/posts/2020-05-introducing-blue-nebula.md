@@ -1,5 +1,6 @@
 ---
 title: "Introducing Blue Nebula"
+date: 2020-05-31
 author: "TheAssassin"
 categories:
   - development

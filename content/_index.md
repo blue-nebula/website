@@ -6,16 +6,9 @@ menu = "main"
 # ensure it's the first item
 weight = -1000
 headless = true
-template = "blog"
 +++
 
-Blue Nebula is a fast-paced shooter featuring a unique parkour system. It is a fork of Red Eclipse and is free software.
-
-
-### Download the game
-
-We provide official binaries on our [Release page](https://go.blue-nebula.org/releases) for Linux (AppImage),
-Windows and macOS (`.zip` archives). **Try Blue Nebula today!**
+Blue Nebula is a fast-paced shooter featuring a unique parkour system. It is a fork of [**Red Eclipse 1.6**](https://redeclipse.net) and is free software.
 
 {{< figure
     src="/img/pzap.png"

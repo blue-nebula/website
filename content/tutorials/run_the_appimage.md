@@ -16,8 +16,8 @@ To run the game you first have to make sure that the checkbox **Allow executing 
 Now you can double-click the file to run the game
 
 ##### **Video tutorial**
-{{< video
-    src="/vids/run_the_appimage.mp4"
-    width="100%"
->}}
-
+{{< rawhtml >}}
+<video width=100% controls>
+    <source src="/vids/run_the_appimage.mp4">
+</video>
+{{< /rawhtml >}}

@@ -26,8 +26,8 @@ Now we can start updating the game.
     5. It'll create a new file for the updated game
 
 ##### **Video tutorial**
-{{< video
-    src="/vids/update_the_appimage.mp4"
-    width="100%"
->}}
-
+{{< rawhtml >}}
+<video width=100% controls>
+    <source src="/vids/update_the_appimage.mp4">
+</video>
+{{< /rawhtml >}}

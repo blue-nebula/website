@@ -20,4 +20,6 @@ RUN hugo --gc && find
 
 FROM caddy:alpine
 
+LABEL org.opencontainers.image.source="https://github.com/blue-nebula/website"
+
 COPY --from=builder /ws/public /usr/share/caddy

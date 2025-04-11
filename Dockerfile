@@ -22,4 +22,7 @@ FROM caddy:alpine
 
 LABEL org.opencontainers.image.source="https://github.com/blue-nebula/website"
 
+# kaniko doesn't properly overwrite the existing index.html
+RUN rm -r /usr/share/caddy/*
+
 COPY --from=builder /ws/public /usr/share/caddy

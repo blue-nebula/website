@@ -199,4 +199,4 @@ enableRobotsTXT = true
     section = ["HTML", "RSS"]
 
     ## RSS is required here for tag/category RSS feeds
-    taxonomy = ["HTML", "RSS"]
+    term = ["HTML", "RSS"]

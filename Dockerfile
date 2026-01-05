@@ -1,6 +1,6 @@
-FROM alpine:latest as builder
+FROM alpine:latest AS builder
 
-MAINTAINER "Team Blue Nebula"
+LABEL org.opencontainers.image.authors="Team Blue Nebula"
 
 # print all commands during build
 SHELL ["sh", "-x", "-c"]

@@ -18,11 +18,8 @@ WORKDIR /ws
 RUN hugo --gc && find
 
 
-FROM caddy:alpine
+FROM joseluisq/static-web-server:2
 
 LABEL org.opencontainers.image.source="https://github.com/blue-nebula/website"
 
-# kaniko doesn't properly overwrite the existing index.html
-RUN rm -r /usr/share/caddy/*
-
-COPY --from=builder /ws/public /usr/share/caddy
+COPY --from=builder /ws/public /public

@@ -14,8 +14,9 @@ Blue Nebula is a fast-paced shooter featuring a unique parkour system. It is a f
 
 ### Download the game
 
-We provide official binaries on our [Release page](https://go.blue-nebula.org/releases) for Linux (AppImage),
-Windows and macOS (`.zip` archives). **Try Blue Nebula today!**
+We provide official binaries on our [Release page](https://github.com/blue-nebula/base/releases) for
+Linux (AppImage and [Flatpak](https://flathub.org/en/apps/org.blue_nebula.BlueNebula)),
+Windows (installer and `.zip` archive for x86_64) and macOS (`.zip` archives for Intel Macs and Apple Silicon). **Try Blue Nebula today!**
 
 
 ### Get in touch

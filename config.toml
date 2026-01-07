@@ -58,8 +58,9 @@ enableRobotsTXT = true
     #no_minimize = true
 
     ## Set a site-wide notice for all visitors to all pages.
-#    alert = """
-#    """
+    alert = """
+#### Version 1.6.1 was just released! See our [Release Announcement](/posts/2026-01-05-first-release/)!
+    """
 
 ## Midnight can integrate custom shortcodes into the theme. For more
 ## about this, see https://bluestnight.com/docs/midnight/developers/
